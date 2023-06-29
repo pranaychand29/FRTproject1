@@ -21,8 +21,8 @@ Has many graphical and visual innovative effects.
 Included the newsletter form to give the updates about products to the subscribers
 
 # Azure Technologies used for the project
-Azure containers.
-azure static web apps.
+1.Azure containers.
+2.Azure static web apps.
 
 ## Screenshots
 
