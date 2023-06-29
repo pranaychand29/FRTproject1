@@ -6,7 +6,7 @@ This is a web based application developed for lifestyle related based website in
 
 Project Link - https://nice-mud-099396c00.3.azurestaticapps.net/about.html#testi
 
-project demo video link**
+project demo video link - **
 
 # Features and Functionalities
 
@@ -21,8 +21,8 @@ Has many graphical and visual innovative effects.
 Included the newsletter form to give the updates about products to the subscribers
 
 # Azure Technologies used for the project
-Azure healthbot
-azure static web apps
+Azure containers.
+azure static web apps.
 
 ## Screenshots
 
