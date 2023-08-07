@@ -21,7 +21,7 @@ Has many graphical and visual innovative effects.
 Included the newsletter form to give the updates about products to the subscribers
 
 # Azure Technologies used for the project
-1.Azure containers.
+1.Azure Health Bot.
 2.Azure static web apps.
 
 ## Screenshots
@@ -32,9 +32,14 @@ Included the newsletter form to give the updates about products to the subscribe
 
 ![Screenshot (9)](https://github.com/pranaychand29/FRTproject1/assets/68414969/a8fb4491-a599-4f98-a5bb-0e873b6ca077)
 
-#99 About Us -
+# About Us -
+![Screenshot (16)](https://github.com/pranaychand29/FRTproject1/assets/68414969/5aa1053c-5644-46f7-9a67-82e44b540df2)
+
 
 ![Screenshot (7)](https://github.com/pranaychand29/FRTproject1/assets/68414969/d534be78-308e-47d8-bc33-09d5c627effc)
+
+
+# New Azure Bot -
 
 
 ## Tech Stack
