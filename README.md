@@ -26,7 +26,8 @@ Included the newsletter form to give the updates about products to the subscribe
 
 ## Screenshots
 
-![Screenshot (1)](https://github.com/pranaychand29/FRTproject1/assets/68414969/28c9ff95-677b-432c-81f5-d83628c9e46a)
+![Screenshot (17)](https://github.com/pranaychand29/FRTproject1/assets/68414969/a00834c1-174f-468a-85af-c5961fe54ea5)
+
 
 ![Screenshot (8)](https://github.com/pranaychand29/FRTproject1/assets/68414969/61f71cd5-d32c-42c1-9184-f9d19687b545)
 
