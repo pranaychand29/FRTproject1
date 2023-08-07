@@ -26,22 +26,17 @@ Included the newsletter form to give the updates about products to the subscribe
 
 ## Screenshots
 
-![Screenshot (17)](https://github.com/pranaychand29/FRTproject1/assets/68414969/a00834c1-174f-468a-85af-c5961fe54ea5)
+![Screenshot (18)](https://github.com/pranaychand29/FRTproject1/assets/68414969/3312dfe5-103a-4ddd-b6dd-69397248b0e4)
 
+![Screenshot (19)](https://github.com/pranaychand29/FRTproject1/assets/68414969/0b68a451-bd09-4598-b3b4-3305cf33bfb5)
 
-![Screenshot (8)](https://github.com/pranaychand29/FRTproject1/assets/68414969/61f71cd5-d32c-42c1-9184-f9d19687b545)
+![Screenshot (20)](https://github.com/pranaychand29/FRTproject1/assets/68414969/80144943-b3a1-406f-9fc8-f94193fa8681)
 
-![Screenshot (9)](https://github.com/pranaychand29/FRTproject1/assets/68414969/a8fb4491-a599-4f98-a5bb-0e873b6ca077)
+![Screenshot (21)](https://github.com/pranaychand29/FRTproject1/assets/68414969/a97dd181-6498-4e36-948d-93ec9fb9ec6c)
 
-# About Us -
-![Screenshot (16)](https://github.com/pranaychand29/FRTproject1/assets/68414969/5aa1053c-5644-46f7-9a67-82e44b540df2)
+![Screenshot (22)](https://github.com/pranaychand29/FRTproject1/assets/68414969/9cfd32cd-91d1-42ef-8f8b-cc213ec36dc6)
 
-
-![Screenshot (7)](https://github.com/pranaychand29/FRTproject1/assets/68414969/d534be78-308e-47d8-bc33-09d5c627effc)
-
-
-# New Azure Bot -
-
+![Screenshot (23)](https://github.com/pranaychand29/FRTproject1/assets/68414969/fb58a92e-2e13-41bb-9cb2-1ee51ca7a4bd)
 
 ## Tech Stack
 
